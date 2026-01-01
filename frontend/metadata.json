@@ -1,0 +1,8 @@
+
+{
+  "name": "Nexus Supply Chain Command Center",
+  "description": "A high-performance, AI-integrated logistics monitoring platform featuring predictive risk analytics, global port visualization, and an intelligent operations agent.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

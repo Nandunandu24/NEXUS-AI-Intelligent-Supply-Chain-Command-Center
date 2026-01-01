@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1766932508426,"sparkVersion":"3.5.7","uid":"VectorAssembler_8c68ca5ca51c","paramMap":{"inputCols":["city_idx","humidity_idx","wind_idx"],"outputCol":"features"},"defaultParamMap":{"handleInvalid":"error","outputCol":"VectorAssembler_8c68ca5ca51c__output"}}
