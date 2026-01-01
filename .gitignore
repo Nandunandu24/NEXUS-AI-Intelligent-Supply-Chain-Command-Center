@@ -21,3 +21,20 @@ Thumbs.db
 
 # Logs
 *.log
+
+####################################
+# Spark / ML Artifacts (DO NOT COMMIT)
+####################################
+
+# Spark model outputs
+omni_ai/models/
+
+# Spark data files
+*.parquet
+
+# Hadoop / Spark checksum files
+*.crc
+
+# Spark job markers
+_SUCCESS
+
